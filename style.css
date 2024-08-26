@@ -15,3 +15,11 @@ button {
     color: black;
     font-family: "DM Serif Text", serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
